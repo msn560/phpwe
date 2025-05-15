@@ -1,4 +1,4 @@
-# PHPWE - Basit PHP ORM Framework
+# PHPWE - Basit PHP ORM Framework [![Donate](https://img.shields.io/badge/Donate-Patreon-orange.svg)](https://www.patreon.com/msn560)
 
 PHPWE, PHP dilinde yazılmış, veritabanı işlemlerini kolaylaştıran ve ORM yapısı sunan hafif bir frameworktür. Model tabanlı bir yapı kullanarak veritabanı işlemlerini hızlı ve güvenli bir şekilde gerçekleştirmenizi sağlar.
 
@@ -101,7 +101,7 @@ $session->save();
 // İlişkili verileri yükleme
 $userWithSessions = $user->loadRelation('sessions');
 ```
-[![Donate](https://img.shields.io/badge/Donate-Patreon-orange.svg)](https://www.patreon.com/msn560)
+
 
 ## Lisans
 
