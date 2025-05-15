@@ -101,7 +101,8 @@ $session->save();
 // İlişkili verileri yükleme
 $userWithSessions = $user->loadRelation('sessions');
 ```
+[![Donate](https://img.shields.io/badge/Donate-Patreon-orange.svg)](https://www.patreon.com/kullanici_adin)
 
 ## Lisans
 
-??
+Sınırsız Kullanım 
